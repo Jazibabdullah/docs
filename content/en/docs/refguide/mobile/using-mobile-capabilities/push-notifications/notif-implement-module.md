@@ -23,7 +23,7 @@ If you have not done so, make sure to download the **Push Notification Connector
 
 ## 3 Configuring Your App {#config}
 
-In order for your app to use to use the Push Connections Module, configure the following things:
+In order for your app to use the Push Connections Module, configure the following things:
 
 1. Open **App** > **Security** in the App Explorer.
 1. Go to **User roles**.<br />
